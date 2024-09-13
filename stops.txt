@@ -47,7 +47,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_desc
 44,44,Lawson Ave & Orchard St,40.3640078,-80.6282869,
 45,45,Lawson Ave & West Adams St,40.3602325,-80.6289686,
 46,46,Gaylord Tower,40.3615254,-80.619916,
-47,47,6th & Logan,40.3661844,-80.6146688,
+47,47,Weirton Walmart,40.39031,-80.54957,
 48,48,7th & North,40.3646465,-80.6177461,
 49,49,North St & 5th St,40.363885,-80.6146982,
 50,50,Pittsburgh & Oregon,40.3700469,-80.6240011,
