@@ -75,7 +75,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_desc
 73,73,Ridge & Pittsburgh,40.3678832,-80.6253086,
 74,74,Oakmont & Maple,40.3568401,-80.6270215,
 75,75,Park & West Adams,40.3595047,-80.6274453,
-76,76,N. 6th & Franklin,40.3710972,-80.612599,
+76,76,Broadway & Oregon,40.37183, -80.63759,
 77,77,7th & Logan,40.3667654,-80.6166211,
 78,78,Bridgeview Apartments,40.3699339,-80.61502,
 79,79,4th & Dock,40.3645803,-80.6128401,
