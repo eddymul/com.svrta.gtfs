@@ -1,3 +1,11 @@
 fare_product_id,fare_product_name,fare_media_id,amount,currency
-one_way,One Way Fare,cash,0.5,USD
+rayland,"Rayland, OH",cash,3,USD
+robinson,Robinson,cash,5,USD
+local_adult,Adult,cash,0.5,USD
+senior,Senior,cash,0.25,USD
+medicare,Medicare,cash,0.25,USD
+student,Student,cash,0.5,USD
+paratransit,Paratransit,cash,1,USD
 free_transfer,Free Transfer,,0,USD
+year_pass,Year Pass,cash,40,USD
+half_year_pass,½ Year Pass,cash,20,USD
