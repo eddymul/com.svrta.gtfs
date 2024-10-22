@@ -1,0 +1,15 @@
+network_id,route_id
+rayland,RaylandTripper
+robinson,RobinsonW
+robinson,RobinsonSat
+local,Blue
+local,Red
+local,Orange
+local,WedWintersville
+local,Green
+local,GreenXP
+local,MnTripper
+local,PurpleXP
+local,SteubenvilleSat
+local,WintervilleSat
+local,FirstFridays
