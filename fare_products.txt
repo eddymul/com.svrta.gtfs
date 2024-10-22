@@ -1,0 +1,3 @@
+fare_product_id,fare_product_name,fare_media_id,amount,currency
+one_way,One Way Fare,cash,0.5,USD
+free_transfer,Free Transfer,,0,USD
