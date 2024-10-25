@@ -1,15 +1,15 @@
-agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,continuous_pickup,continuous_drop_off
-SVRTA,Blue,Blue - Fourth Street,,3,8DB4E2,FFFFFF,0,
-SVRTA,Red,Red - City Limits,,3,DA9694,FFFFFF,0,
-SVRTA,Orange,Orange - Mingo Junction,Orange - Call 740-282-6145 for Route Deviation,3,FABF8F,FFFFFF,0,
-SVRTA,WedWintersville,Wednesday in Winterville,,3,D8E4BC,FFFFFF,0,
-SVRTA,Green,Green - Wintersville,Green - Call 740-282-6145 for Route Deviation,3,C4D79B,FFFFFF,0,
-SVRTA,GreenXP,Green - Express,,3,C4D79B,FFFFFF,0,
-SVRTA,MnTripper,Mingo Tripper,,3,C4BD97,FFFFFF,0,
-SVRTA,RaylandTripper,Rayland - Tripper,,3,C4BD97,FFFFFF,0,
-SVRTA,PurpleXP,Purple - Express,,3,CCC0DA,FFFFFF,0,
-SVRTA,RobinsonW,Robinson - Weirton,Robinson/Weirton - Call 740-282-6145 for Route Deviation,3,92CDDC,FFFFFF,0,
-SVRTA,RobinsonSat,Robinson - Saturday,,3,92CDDC,FFFFFF,0,
-SVRTA,SteubenvilleSat,Steubenville - Saturday,,3,DA9694,FFFFFF,0,
-SVRTA,WintervilleSat,Winterville - Saturday,,3,C4D79B,FFFFFF,0,
-SVRTA,FirstFridays,First Fridays Shuttle,,3,F2DCDB,FFFFFF,0,
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,continuous_pickup,continuous_drop_off,network_id
+SVRTA,Blue,Blue - Fourth Street,,3,8DB4E2,FFFFFF,0,,local
+SVRTA,Red,Red - City Limits,,3,DA9694,FFFFFF,0,,local
+SVRTA,Orange,Orange - Mingo Junction,Orange - Call 740-282-6145 for Route Deviation,3,FABF8F,FFFFFF,0,,local
+SVRTA,WedWintersville,Wednesday in Winterville,,3,D8E4BC,FFFFFF,0,,local
+SVRTA,Green,Green - Wintersville,Green - Call 740-282-6145 for Route Deviation,3,C4D79B,FFFFFF,0,,local
+SVRTA,GreenXP,Green - Express,,3,C4D79B,FFFFFF,0,,local
+SVRTA,MnTripper,Mingo Tripper,,3,C4BD97,FFFFFF,0,,local
+SVRTA,RaylandTripper,Rayland - Tripper,,3,C4BD97,FFFFFF,0,,rayland
+SVRTA,PurpleXP,Purple - Express,,3,CCC0DA,FFFFFF,0,,local
+SVRTA,RobinsonW,Robinson - Weirton,Robinson/Weirton - Call 740-282-6145 for Route Deviation,3,92CDDC,FFFFFF,0,,robinson
+SVRTA,RobinsonSat,Robinson - Saturday,,3,92CDDC,FFFFFF,0,,robinson
+SVRTA,SteubenvilleSat,Steubenville - Saturday,,3,DA9694,FFFFFF,0,,local
+SVRTA,WintervilleSat,Winterville - Saturday,,3,C4D79B,FFFFFF,0,,local
+SVRTA,FirstFridays,First Fridays Shuttle,,3,F2DCDB,FFFFFF,0,,local
