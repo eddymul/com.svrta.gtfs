@@ -1,0 +1,15 @@
+fare_id,route_id
+local,Blue
+local,Red
+local,Orange
+local,WedWintersville
+local,Green
+local,GreenXP
+local,MnTripper
+rayland,RaylandTripper
+local,PurpleXP
+robinson,RobinsonW
+robinson,RobinsonSat
+local,SteubenvilleSat
+local,WintervilleSat
+local,FirstFridays
