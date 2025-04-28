@@ -138,5 +138,5 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_desc
 135,135,Main St & 3rd St - Brilliant,40.26406717,-80.63050402,
 136,136,Market St & Smithfield St,40.26891981,-80.62020415,
 206,206,TJ Maxx - Robinson,40.4543073,-80.1654085,
-WeirtonLib,,Mary H Weir Library,40.40062,-80.58979,
-FirstChoiceAmericaCUWeirtonMainSt,,First Choice America Federal Credit Union Weirton,40.40062,-80.58997,
+WeirtonLib,,Mary H Weir Library,40.40058,-80.58978,
+WeirtonMainStFirstChoiceAmericaCU,,First Choice America Federal Credit Union Weirton,40.40062,-80.58997,
