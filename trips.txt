@@ -140,7 +140,7 @@ RobinsonW,1,Robinson-IB-2,,1,Robinson-IB-2,1,2
 RobinsonW,1,Robinson-IB-3,,1,Robinson-IB-3,1,2
 RobinsonW,1,Robinson-IB-4,,1,Robinson-IB-4,1,2
 RobinsonW,1,Robinson-IB-5,,1,Robinson-IB-5,1,2
-RobinsonW,1,Robinson-IB-6,,1,Robinson-IB-1,1,2
+RobinsonW,1,Robinson-IB-6,,1,Robinson-IB-6,1,2
 RobinsonSat,2,RobinsonSat-OB-Early-1,,0,RobinsonSat-OB-Early1,1,2
 RobinsonSat,2,RobinsonSat-OB-Early-2,,0,RobinsonSat-OB-Early2,1,2
 RobinsonSat,2,RobinsonSat-OB-PM-1,,0,RobinsonSat-OB-PM1,1,2
