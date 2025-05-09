@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang
-SVRTA,https://svrta.com/schedules/,en
+SVRTA,https://svrta.com,en
