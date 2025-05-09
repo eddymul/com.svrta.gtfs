@@ -1,4 +1,4 @@
-fare_id,price,currency_type,payment_method,transfers
-local,0.50,USD,0,
-rayland,3.00,USD,0,
-robinson,5.00,USD,0,
+fare_id,price,currency_type,payment_method,transfers,agency_id
+local,0.50,USD,0,,SVRTA
+rayland,3.00,USD,0,,SVRTA
+robinson,5.00,USD,0,,SVRTA
