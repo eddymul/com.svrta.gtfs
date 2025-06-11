@@ -2,7 +2,7 @@ agency_id,route_id,route_long_name,route_desc,route_type,route_color,route_text_
 SVRTA,Blue,Blue - Fourth Street,,3,8DB4E2,FFFFFF,0,0,local
 SVRTA,Red,Red - City Limits,,3,DA9694,FFFFFF,0,0,local
 SVRTA,Orange,Orange - Mingo Junction,Orange - Call 740-282-6145 for Route Deviation,3,FABF8F,FFFFFF,,,local
-SVRTA,WedWintersville,Wednesdays in Winterville,,3,D8E4BC,FFFFFF,0,0,local
+SVRTA,WedWintersville,Wednesdays in Wintersville,,3,D8E4BC,FFFFFF,0,0,local
 SVRTA,Green,Green - Wintersville,Green - Call 740-282-6145 for Route Deviation,3,C4D79B,FFFFFF,0,0,local
 SVRTA,GreenXP,Green - Express,,3,C4D79B,FFFFFF,,,local
 SVRTA,MnTripper,Mingo Tripper,,3,C4BD97,FFFFFF,,,local
@@ -11,5 +11,5 @@ SVRTA,PurpleXP,Purple - Express,,3,CCC0DA,FFFFFF,,,local
 SVRTA,RobinsonW,Robinson - Weirton,Robinson/Weirton - Call 740-282-6145 for Route Deviation,3,92CDDC,FFFFFF,,,robinson
 SVRTA,RobinsonSat,Robinson - Saturday,,3,92CDDC,FFFFFF,,,robinson
 SVRTA,SteubenvilleSat,Steubenville - Saturday,,3,DA9694,FFFFFF,0,0,local
-SVRTA,WintervilleSat,Winterville - Saturday,,3,C4D79B,FFFFFF,0,0,local
+SVRTA,WintervilleSat,Wintersville - Saturday,,3,C4D79B,FFFFFF,0,0,local
 SVRTA,FirstFridays,First Fridays Shuttle,,3,F2DCDB,FFFFFF,0,0,local
