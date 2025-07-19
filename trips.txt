@@ -9,7 +9,7 @@ Blue,1,Blue-1-OB-7-Full,,0,BL-OB-FULL,1,2
 Blue,1,Blue-1-OB-8-XP,,0,BL-OB-XP,1,2
 Blue,1,Blue-1-OB-9-Full,,0,BL-OB-FULL,1,2
 Blue,1,Blue-1-IB-1-AM-1,,1,BL-IB-AM-1,1,2
-Blue,1,Blue-1-IB-2-AM-2,,1,BL-IB-AM-2,1,2
+Blue,1,Blue-1-IB-2-AM-2,,1,,1,2
 Blue,1,Blue-1-IB-3-Full,,1,BL-IB-FULL,1,2
 Blue,1,Blue-1-IB-4-Full,,1,BL-IB-FULL,1,2
 Blue,1,Blue-1-IB-5-Full,,1,BL-IB-FULL,1,2
