@@ -74,6 +74,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_desc
 76,76,Broadway Boulevard & Oregon Avenue,40.37183, -80.63759,
 77,77,North 7th Street & Logan Street,40.3667654,-80.6166211,
 78,78,Bridgeview Apartments,40.3699339,-80.61502,
+79,79,North 4th Street & Logan BIG RED,40.3645803,-80.6128401,
 80,80,Hollywood Dollar General,40.3703889,-80.6415698,
 81In,81-I,Lawson Avenue & State Street,40.3615881,-80.6287313,
 81Out,81-O,Lawson Avenue & State Street,40.3614041,-80.6285865,
