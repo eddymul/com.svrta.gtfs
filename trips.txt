@@ -1,5 +1,6 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_accessible,bikes_allowed
 Blue,1,Blue-1-OB-1-AM,,0,BL-OB-AM,1,2
+Blue,1,Blue-1-OB-2-AM,,0,BL-OB-AM,1,2
 Blue,1,Blue-1-OB-2-Full,,0,BL-OB-FULL,1,2
 Blue,1,Blue-1-OB-3-Full,,0,BL-OB-FULL,1,2
 Blue,1,Blue-1-OB-4-Full,,0,BL-OB-FULL,1,2
