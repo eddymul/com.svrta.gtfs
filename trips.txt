@@ -33,7 +33,7 @@ Red,1,Red-1-IB-3-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-4-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-5-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-6-Full,,1,RD-IB-FULL,1,2
-Red,1,Red-1-IB-7-XP-PM,,1,RD-IB-XP,1,2
+Red,1,Red-1-IB-7-XP-PM,,1,,1,2
 Red,1,Red-1-IB-8-Tripper,,1,RD-OB-AM-XP,1,2
 Red,1,Red-1-IB-9-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-10-Full,,1,RD-IB-FULL,1,2
