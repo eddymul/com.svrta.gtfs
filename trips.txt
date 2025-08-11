@@ -1,5 +1,6 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,wheelchair_accessible,bikes_allowed
 Blue,1,Blue-1-OB-1-AM,,0,BL-OB-AM,1,2
+Blue,1,Blue-1-OB-2-AM,,0,BL-OB-AM,1,2
 Blue,1,Blue-1-OB-2-Full,,0,BL-OB-FULL,1,2
 Blue,1,Blue-1-OB-3-Full,,0,BL-OB-FULL,1,2
 Blue,1,Blue-1-OB-4-Full,,0,BL-OB-FULL,1,2
@@ -27,14 +28,14 @@ Red,1,Red-1-OB-6-Full,,0,RD-OB-FULL,1,2
 Red,1,Red-1-OB-7-PM-XP,,0,RD-OB-PM-XP,1,2
 Red,1,Red-1-OB-8-Full,,0,RD-OB-FULL,1,2
 Red,1,Red-1-OB-9-Full,,0,RD-OB-FULL,1,2
-Red,1,Red-1-IB-1-AM-XP,,1,RD-IB-AM-XP,1,2
+Red,1,Red-1-IB-1-AM-XP,,1,,1,2
 Red,1,Red-1-IB-2-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-3-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-4-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-5-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-6-Full,,1,RD-IB-FULL,1,2
-Red,1,Red-1-IB-7-XP-PM,,1,RD-IB-XP,1,2
-Red,1,Red-1-IB-8-Tripper,,1,RD-OB-AM-XP,1,2
+Red,1,Red-1-IB-7-XP-PM,,1,,1,2
+Red,1,Red-1-IB-8-Tripper,,1,RD-IB-XP,1,2
 Red,1,Red-1-IB-9-Full,,1,RD-IB-FULL,1,2
 Red,1,Red-1-IB-10-Full,,1,RD-IB-FULL,1,2
 Orange,1,Orange-1-OB-1-Full,,0,OR-OB-FULL,1,2
