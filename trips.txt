@@ -104,7 +104,7 @@ MnTripper,2,MngTripper-2-IB-Partial-2,,1,MingoTripper-IB-PARTIAL,1,2
 MnTripper,2,MngTripper-2-IB-Lunch-3,,1,MingoTripper-IB-SHORT,1,2
 MnTripper,2,MngTripper-2-IB-Partial-4,,1,MingoTripper-IB-PARTIAL,1,2
 MnTripper,2,MngTripper-2-IB-Evening-5,,1,MingoTripper-IB-EVENING,1,2
-RaylandTripper,1,Rayland-OB-Early-1,,0,RaylandTripper-OB-Early,1,2
+RaylandTripper,1,Rayland-OB-Early-1,,0,RaylandTripper-OB-FULL,1,2
 RaylandTripper,1,Rayland-OB-Full-2,,0,RaylandTripper-OB-FULL,1,2
 RaylandTripper,1,Rayland-OB-Full-3,,0,RaylandTripper-OB-FULL,1,2
 RaylandTripper,1,Rayland-OB-Full-4,,0,RaylandTripper-OB-FULL,1,2
