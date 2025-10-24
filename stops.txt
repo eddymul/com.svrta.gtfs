@@ -2,8 +2,8 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_desc
 1,1,RJC Multi Modal Center,40.3591331,-80.6177476,
 2,2,South 5th Street & Slack Street,40.3557435,-80.6189015,
 3,3,South 4th Street & Adams Street,40.358423,-80.6160396,
-4In,4-OB,4th Street & Market Street,40.3600985,-80.6150002,Outbound
-4Out,4-IB,4th Street & Market Street,40.3599146,-80.6152671,Inbound
+4Out,4,4th Street & Market Street,40.3600985,-80.6150002,Outbound
+4In,4,4th Street & Market Street,40.3599146,-80.6152671,Inbound
 5,5,Fort Steuben Apartments,40.3614713,-80.6142776,
 6,6,North 4th Street & Dock Street,40.3643674,-80.6127858,
 7,7,North 5th Street & Franklin Avenue,40.3708176,-80.6109259,
