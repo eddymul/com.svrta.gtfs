@@ -60,7 +60,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_desc
 61,61,Wilkins Street & Oak Grove Avenue,40.3709625,-80.6214184,
 62,62,Oak Grove Avenue & Carnegie Street,40.3721664,-80.6249554,
 63,63,Carnegie Street & Oregon Avenue,40.3707355,-80.6258238,
-64,64,Lovers Lane & Sunset Boulevard,40.3728706,-80.6806306,
+64,64,Lovers Lane & Sunset Boulevard,40.3731198,-80.6802662,
 66,66,North 5th Street & Dollar Tree,40.3604154,-80.6162638,
 67,67,University Boulevard & Woodlawn Road,40.375675,-80.6291088,
 68,68,Capri's,40.3744667,-80.6256159,
