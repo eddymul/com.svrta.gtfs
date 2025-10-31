@@ -79,6 +79,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_desc
 81In,81,Lawson Avenue & State Street,40.36143,-80.62875,
 81Out,81,Lawson Avenue & State Street,40.36155,-80.62857,
 82,82,Wintersville McDonalds,40.3712248,-80.6868992,
+82Out,82,Wintersville McDonalds,40.37145,-80.68704,
 83,83,Sunset Boulevard & DiGregory Avenue,40.3692577,-80.6400308,
 84,84,Fernwood Road & Frank P. Layman Boulevard,40.3741994,-80.6984573,
 85,85,BMV,40.3742563,-80.6793897,
