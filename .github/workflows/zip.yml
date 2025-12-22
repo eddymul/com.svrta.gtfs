@@ -19,8 +19,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: actions/upload-artifact@v4
-      	# side effect: creates a ZIP file with txt files at the root level directly, not in a subfolder.
-	# (When we "Download ZIP" of a "`git` tree", GitHub normally creates a sub-folder)
+        # side effect: creates a ZIP file with txt files at the root level directly, not in a subfolder.
+        # (When we "Download ZIP" of a "`git` tree", GitHub normally creates a sub-folder)
         with:
           name: svrta_gtfs
           path: ${{ github.workspace }}/*.txt
